@@ -1,0 +1,4 @@
+include ':secondapplication'
+include ':librarymodule'
+include ':app'
+rootProject.name = "ModuleApplication"
